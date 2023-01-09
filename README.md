@@ -20,7 +20,7 @@ Assign field VoxelGenerator Script on the scene on the EditorWindow's top
 
 ![Screen Shot 2023-01-09 at 12 03 24](https://user-images.githubusercontent.com/56830043/211272376-3ef90e0f-41cf-4e6c-96bf-ca843501aaeb.png)
 
-Set the sprite to voxelize
+Set the sprite to voxelize(Must Read/Write enabled)
 
 Configure scale factor
 
