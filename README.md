@@ -1,5 +1,5 @@
 # VoxelGenerator
-This script creates voxelized 3d version of given texture and saving object as prefab and saving materials for further use.
+This script creates voxelized 3d version of given texture and saving object as prefab. Also Creates one material has given texture on it. Arrange pixel's UV's for getting correct color of texture pixel on material.
 
 Set the sprite to voxelize
 
