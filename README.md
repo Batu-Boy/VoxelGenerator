@@ -9,7 +9,7 @@ Assign a cube for pixels prefab
 
 Once you call GenerateVoxel method, voxelized object will created in scene
 
-Call SaveVoxelAsPrefab method for saving the created voxelized object in path: "Assets/_VoxelGenerator/GeneratedVoxels/{parent.name}.prefab"
+Call SaveVoxel method for saving the created voxelized object in path: "Assets/_VoxelGenerator/Voxels/{parent.name}.prefab"
 
 <img width="523" alt="Screen Shot 2023-01-08 at 18 00 10" src="https://user-images.githubusercontent.com/56830043/211203398-1b1215f6-9bb0-4dc0-82a7-5b8bcdf0e478.png">
 
